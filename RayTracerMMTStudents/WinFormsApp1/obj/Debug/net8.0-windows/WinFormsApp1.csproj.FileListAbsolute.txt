@@ -1,0 +1,16 @@
+C:\Users\hartl\Desktop\best25\RayTracerMMTStudents\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\hartl\Desktop\best25\RayTracerMMTStudents\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\hartl\Desktop\best25\RayTracerMMTStudents\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\hartl\Desktop\best25\RayTracerMMTStudents\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\hartl\Desktop\best25\RayTracerMMTStudents\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\hartl\Desktop\best25\RayTracerMMTStudents\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\hartl\Desktop\best25\RayTracerMMTStudents\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\hartl\Desktop\best25\RayTracerMMTStudents\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hartl\Desktop\best25\RayTracerMMTStudents\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\hartl\Desktop\best25\RayTracerMMTStudents\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\hartl\Desktop\best25\RayTracerMMTStudents\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\hartl\Desktop\best25\RayTracerMMTStudents\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\hartl\Desktop\best25\RayTracerMMTStudents\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\hartl\Desktop\best25\RayTracerMMTStudents\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\hartl\Desktop\best25\RayTracerMMTStudents\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\hartl\Desktop\best25\RayTracerMMTStudents\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
